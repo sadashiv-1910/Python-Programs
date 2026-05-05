@@ -1,5 +1,4 @@
 # Python-Programs
-This is my ARM project
-use this programm
-run the program
-ARM processors are based on the concept of Reduced Instruction Set Computing, meaning they use a smaller set of instructions. This makes them consume less power while still delivering good performance, which is why they are widely used in portable and embedded devices.
+This is my project
+Python is popular because it is easy to learn, has a large community, and provides many libraries and tools that simplify programming tasks.
+In short, a Python program is a way of giving instructions to a computer using Python to solve problems, automate tasks, or build applications.
